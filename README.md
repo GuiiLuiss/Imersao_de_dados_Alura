@@ -1,4 +1,4 @@
-# Imers-o_de_dados_Alura
+# Imersao_de_dados_Alura
 Projeto de imersão de dados - Plataforma Alura
 
 Este projeto trata-se de uma análise exploratória com os dados do Enem 2019.
